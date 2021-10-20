@@ -10,3 +10,6 @@ Scripts e notebooks Python desenvolvidos ao longo do curso da Infnet
 ## Etapa 2: Escopo de variáveis e recursividade
 - [aula2](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula2.ipynb)
 - [aula3](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula3.ipynb)
+
+## Etapa 3: Estruturas de dados: listas, strings e tuplas
+- [aula4](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula4.ipynb)
