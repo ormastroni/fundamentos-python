@@ -21,30 +21,33 @@ A figura a seguir apresenta o diagrama de classes projetado para um sistema de e
 - removeProduto(p: Produto, quant: integer): remove **quant** unidade do produto **p** na lista de produtos no carrinho
 - esvazia(): esvazia os produtos do carrinho, isto é, remove todos os produtos
 
-### Observações
-- O trabalho pode ser feito individualmente. Neste caso, o trabalho vai render um bônus na sua avaliação do AT
-- A turma pode também se dividir em grupos para a implementação do projeto como um time de desenvolvimento. Neste caso, sugiro a seguinte configuração:
+## Observações
+- O trabalho será utilizado como parte da avaliação do AT
+- O trabalho pode ser feito individualmente. Neste caso, o aluno terá um bônus na sua avaliação do AT, caso ele apresente pelo menos 3 módulos funcionando corretamente (ver tabela abaixo).
+- A turma pode também se dividir em grupos para a implementação do projeto como um time de desenvolvimento. Neste caso, sugiro a seguinte configuração dos módulos:
 
-| Grupos              | Escopo de trabalho      |
-|---------------------|-------------------------|
-| Grupo cliente       | Cliente e Carrinho      |
-| Grupo produto       | Produto, Livro e Game   |
-| Grupo pagamento     | Pedido e CartaoCredito  |
-| Grupo de integração | Testar tudo funcionando |
+| Módulos              | Escopo de trabalho      |
+|----------------------|-------------------------|
+| Módulo cliente       | Cliente e Carrinho      |
+| Módulo produto       | Produto, Livro e Game   |
+| Módulo pagamento     | Pedido e CartaoCredito  |
+| Módulo de integração | Testar tudo funcionando |
 
 - Os grupos devem se comunicar para combinarem as interfaces públicas de cada classe
 - A responsabilidade de cada grupo é deixar a sua parte (escopo de trabalho) funcionando
 - A responsabilidade do grupo de integração é garantir que as partes de todos os grupos funcionem corretamente juntas
 - O grupo de integração deve mostrar um programa que reutilize o código dos outros grupos para a seguinte sequencia de operações:
-  - Criação de 3 clientes onde um deles tem 2 cartões de crédito, enquanto os demais apenas um. Os limites dos 4 cartões devem ser diferentes
+  - Criação de 3 clientes diferentes onde um deles tem 2 cartões de crédito, enquanto os demais apenas um. Os limites dos 4 cartões devem ser diferentes
   - Criação de 4 produtos: 2 livros e 2 games
   - O cliente com dois cartões faz 2 pedidos: um com um livro e um game, e outro com 2 livros
   - Os outros clientes devem fazer 1 pedido cada com 1 livro ou 1 game
   - Mostre um cenário onde o pedido de um dos clientes não é efetivado por falta de limite no cartão
   - Mostre um cenário onde o pedido de um dos clientes não é efetivado por falta do produto no estoque
+  - Mostre um cenário onde o pedido do cliente com mais cartões é efetivado corretamente
 - Caso você precise de algum ajuste no modelo, solicite ao professor a mudança
 
-## Prazo: 06/12
+## Prazo: 06/12 - os grupos apresentam seus módulos (se o trabalho for individual, basta enviar o link do repositório no github)
+> Na data do TP3 (22/11), os grupos devem mostrar uma prévia de como está a implementação do projeto para o professor.
 
 
 
