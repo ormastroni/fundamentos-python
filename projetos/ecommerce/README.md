@@ -24,15 +24,17 @@ A figura a seguir apresenta o diagrama de classes projetado para um sistema de e
 ## Observações
 - O trabalho será utilizado como parte da avaliação do AT
 - O trabalho pode ser feito individualmente. Neste caso, o aluno terá um bônus na sua avaliação do AT, caso ele apresente pelo menos 3 módulos funcionando corretamente (ver tabela abaixo).
-- A turma pode também se dividir em grupos para a implementação do projeto como um time de desenvolvimento. Neste caso, sugiro a seguinte configuração dos módulos:
+- A turma pode também se dividir em grupos para a implementação do projeto como um time de desenvolvimento. Neste caso, sugiro a seguinte configuração dos módulos para os times:
 
 <center>
+
 | Módulos              | Escopo de trabalho      |
 |----------------------|-------------------------|
 | Módulo cliente       | Cliente e Carrinho      |
 | Módulo produto       | Produto, Livro e Game   |
 | Módulo pagamento     | Pedido e CartaoCredito  |
 | Módulo de integração | Testar tudo funcionando |
+
 </center>
 
 - Os grupos devem se comunicar para combinarem as interfaces públicas de cada classe
