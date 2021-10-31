@@ -13,3 +13,8 @@ Scripts e notebooks Python desenvolvidos ao longo do curso da Infnet
 
 ## Etapa 3: Estruturas de dados: listas, strings e tuplas
 - [aula4](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula4.ipynb)
+
+## Etapa 4: Filas, pilhas e introdução a orientação a objetos 
+- [aula5](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula5.ipynb)
+- [aula6](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula6.ipynb)
+- [Slides da introdução a orientação a objetos](https://docs.google.com/presentation/d/1UgqFAmb8gWxi5k7fxb5e0ers_R-8PUZ4jHT7dyKJL9I/edit?usp=sharing)
