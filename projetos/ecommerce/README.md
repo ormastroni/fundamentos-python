@@ -46,8 +46,9 @@ A figura a seguir apresenta o diagrama de classes projetado para um sistema de e
   - Mostre um cenário onde o pedido do cliente com mais cartões é efetivado corretamente
 - Caso você precise de algum ajuste no modelo, solicite ao professor a mudança
 
-## Prazo: 06/12 - os grupos apresentam seus módulos (se o trabalho for individual, basta enviar o link do repositório no github)
+## Prazo: os grupos devem apresentar seus módulos no dia 06/12
 > Na data do TP3 (22/11), os grupos devem mostrar uma prévia de como está a implementação do projeto para o professor.
+- Se o trabalho for individual, basta enviar o link do repositório do projeto no github
 
 
 
