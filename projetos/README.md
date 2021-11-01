@@ -2,10 +2,16 @@
 
 Os projetos a seguir devem ser desenvolvidos como parte da avaliação do curso
 
-## Projeto e-commerce
+## Projetos coletivos
+- Estes projetos devem ser feitos em grupos para estimular o desenvolvimento em equipe
+
+### Projeto e-commerce
 - [Descrição do modelo a ser implementado](https://github.com/ormastroni/fundamentos-python/tree/main/projetos/ecommerce)
 
-## Projeto IFood
+## Projetos individuais
+- Cada aluno deve escolher um dos projetos listados abaixo e implementar um conjunto mínimo de operações com as abstrações apresentadas.
+
+### Projeto IFood
 - Simule a operação do IFood implementando pelo menos 4 membros públicos e privados para as seguintes classes do domínio:
     - Cliente
     - Restaurante
@@ -18,7 +24,7 @@ Os projetos a seguir devem ser desenvolvidos como parte da avaliação do curso
     - Restaurante finaliza pedido e chama entregador
     - Entregador faz a entrega do pedido para o cliente
 
-## Projeto Uber
+### Projeto Uber
 - Simule a operação do Uber implementando pelo menos 4 membros públicos e privados para as seguintes classes do domínio:
     - Passageiro
     - Motorista
@@ -35,7 +41,7 @@ Os projetos a seguir devem ser desenvolvidos como parte da avaliação do curso
     - Motorista finaliza a viagem de um cliente
     - Passageiro avalia motorista na viagem
 
-## Projeto Moodle
+### Projeto Moodle
 - Simule a operação do Moodle implementando pelo menos 4 membros públicos e privados para as seguintes classes do domínio:
     - Turma
     - Disciplina
