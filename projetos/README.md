@@ -4,7 +4,7 @@ Os projetos a seguir devem ser desenvolvidos como parte da avaliação do curso
 
 ## Projetos coletivos
 - Este projeto deve ser feito em grupo para estimular o desenvolvimento em equipe
-    - [Bach-end de sistema e-commerce](https://github.com/ormastroni/fundamentos-python/tree/main/projetos/ecommerce)
+    - [Back-end de sistema e-commerce](https://github.com/ormastroni/fundamentos-python/tree/main/projetos/ecommerce)
 
 ## Projetos individuais
 - Cada aluno deve escolher um dos projetos listados abaixo e implementar as classes sugeridas que abstraem um conjunto mínimo de operações. Faz parte do exercício a definição da classe adequada onde cada operação (método) deve ser implementada.
