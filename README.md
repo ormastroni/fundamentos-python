@@ -16,5 +16,10 @@ Scripts e notebooks Python desenvolvidos ao longo do curso da Infnet
 
 ## Etapa 4: Filas, pilhas e introdução a orientação a objetos 
 - [aula5](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula5.ipynb)
-- [aula6](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula6.ipynb)
 - [Slides da introdução a orientação a objetos](https://docs.google.com/presentation/d/1UgqFAmb8gWxi5k7fxb5e0ers_R-8PUZ4jHT7dyKJL9I/edit?usp=sharing)
+
+## Etapa 5: Métodos construtores, visibilidade de membros e sobrecarga de operadores
+- [aula6](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula6.ipynb)
+
+## Etapa 6: Métodos seletores e modificadores, herança e outros relacionamentos
+
