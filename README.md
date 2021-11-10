@@ -21,5 +21,9 @@ Scripts e notebooks Python desenvolvidos ao longo do curso da Infnet
 ## Etapa 5: Métodos construtores, visibilidade de membros e sobrecarga de operadores
 - [aula6](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula6.ipynb)
 
-## Etapa 6: Métodos seletores e modificadores, herança e outros relacionamentos
+## Etapa 6: Métodos de acesso, herança e associações entre objetos, introdução a dicionários
+- [aula7](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula7.ipynb)
+- [aula8](https://colab.research.google.com/github/ormastroni/fundamentos-python/blob/main/aula7.ipynb)
+- [Slides de relacionamentos entre objetos](https://docs.google.com/presentation/d/1I7yPKEqekK6LKYQuKdBG1uj2gNsinb7moqqydQB6BNk/edit?usp=sharing)
+
 
