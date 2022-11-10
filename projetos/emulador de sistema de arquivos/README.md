@@ -11,15 +11,15 @@ Utilize dicionários para simular um sistema de arquivos e ofereça uma interfac
 * **exit**: sai do shell
 
  ## Principais requisitos
- * Quando um novo arquuivo é criado (comando new), deve ser atribuído um tamanho de arquivo em bytes cujo valor seja um número inteiro aleatório entre 0 e 8096
+ * Quando um novo arquivo é criado (comando new), deve ser atribuído um tamanho de arquivo em bytes cujo valor seja um número inteiro aleatório entre 0 e 8096
  * A saída/resultado de um comando ls deve exibir o total de bytes ocupado pelos arquivos daquele diretório
  * Em todos os comandos, o caminho de origem é um parâmetro opcional. Ou seja, ele pode não existir. Neste caso, o diretório de partida do comando é o diretório atual onde o usuário se encontra
  * Em todos os comandos, o caminho de origem pode ser relativo ou completo. (ex.: caminho relativo para o comando ls: ls ../)
  * Modele o sistema de arquivos de forma orientada a objetos (Dica: pense em uma classe para Arquivo e outra classe para Diretorio)
 
  ## Planejamento das entregas
- * TP2: Interface de console funcionando com a identificação dos comandos e parâmetros capturados para cada comando (exibindo erro quando for o caso)
- * TP3: Comandos new, ls e mkdir de maneira programática (sem precisar estar integrados ao shell)
- * TP4: Restante dos comandos funcionando (sem precisar estar integrados ao shell)
- * AT: Todos os comandos funcionando integrados à interface de console
+ * 22/11: Interface de console funcionando com a identificação dos comandos e parâmetros capturados para cada comando (exibindo erro quando for o caso)
+ * TP3 (29/11): Comandos new, ls e mkdir de maneira programática (sem precisar estar integrados ao shell)
+ * 06/12: Restante dos comandos funcionando (sem precisar estar integrados ao shell)
+ * AT(13/12): Todos os comandos funcionando integrados à interface de console
 
