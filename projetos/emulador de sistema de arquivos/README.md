@@ -1,6 +1,6 @@
 # Projeto de um emulador de um sistema de arquivos
 
-Utilize dicionários para simular um sistema de arquivos e ofereça uma interface de console (shell) para o usuário manipular arquivos e diretórios a partir dos comandos digitados. As operações suportadas pelo console são:
+Utilize dicionários para emular um sistema de arquivos e ofereça uma interface de console (shell) para que o usuário manipule seus arquivos e diretórios (ambos mantidos nos dicionários) a partir dos comandos digitados pelo usuário. As operações suportadas pelo console são:
 * **new [caminho/nome-do-arquivo]**: cria um novo arquivo no diretório especificado no caminho (caminho é opcional)
 * **del [caminho/nome-do-arquivo]**: remove o arquivo do diretório especificado no caminho (caminho é opcional)
 * **ls [caminho]**: lista todos os arquivos e diretórios localizados no caminho (caminho é opcional)
@@ -18,8 +18,8 @@ Utilize dicionários para simular um sistema de arquivos e ofereça uma interfac
  * Modele o sistema de arquivos de forma orientada a objetos (Dica: pense em uma classe para Arquivo e outra classe para Diretorio)
 
  ## Planejamento das entregas
- * 22/11: Interface de console funcionando com a identificação dos comandos e parâmetros capturados para cada comando (exibindo erro quando for o caso)
- * TP3 (29/11): Comandos new, ls e mkdir de maneira programática (sem precisar estar integrados ao shell)
- * 06/12: Restante dos comandos funcionando (sem precisar estar integrados ao shell)
- * AT(13/12): Todos os comandos funcionando integrados à interface de console
+ 1. Interface de console funcionando com a identificação dos comandos e parâmetros capturados para cada comando (exibindo erro quando for o caso)
+ 2. Comandos new, ls e mkdir de maneira programática (sem precisar estar integrados ao shell)
+ 3. Restante dos comandos funcionando (sem precisar estar integrados ao shell)
+ 4. : Todos os comandos funcionando integrados à interface de console
 
