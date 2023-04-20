@@ -1,6 +1,6 @@
 # Fundamentos de Desenvolvimento Python
 
-Scripts e notebooks Python desenvolvidos ao longo do curso da Infnet
+Scripts e notebooks Python desenvolvidos ao longo do curso da Infnet no bloco de Arquitetura de Computadores
 
 [Site do curso no Sutori](https://www.sutori.com/en/story/fundam-de-desenvolvimento-python-21grpsdi03bac203--1WTxJ6uvVuSqsUuPn9PCZz5X)
 
